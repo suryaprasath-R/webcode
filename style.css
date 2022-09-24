@@ -1,0 +1,15 @@
+body {
+  background-color: blueviolet;
+}
+.navbar {
+  background-color: skyblue;
+}
+.me-2 {
+  border-radius: 20px;
+}
+.card {
+  background-color: aqua;
+}
+.form-select {
+  background-color: whitesmoke;
+}
